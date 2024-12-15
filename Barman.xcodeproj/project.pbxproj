@@ -545,7 +545,7 @@
 				CODE_SIGN_IDENTITY = "Apple Development";
 				CODE_SIGN_STYLE = Automatic;
 				CURRENT_PROJECT_VERSION = 1;
-				DEVELOPMENT_TEAM = UMHY4G42PY;
+				DEVELOPMENT_TEAM = "";
 				GENERATE_INFOPLIST_FILE = YES;
 				INFOPLIST_FILE = Barman/Info.plist;
 				INFOPLIST_KEY_NSCameraUsageDescription = "Para tomar la foto del cocktail terminado";
@@ -579,7 +579,7 @@
 				CODE_SIGN_IDENTITY = "Apple Development";
 				CODE_SIGN_STYLE = Automatic;
 				CURRENT_PROJECT_VERSION = 1;
-				DEVELOPMENT_TEAM = UMHY4G42PY;
+				DEVELOPMENT_TEAM = "";
 				GENERATE_INFOPLIST_FILE = YES;
 				INFOPLIST_FILE = Barman/Info.plist;
 				INFOPLIST_KEY_NSCameraUsageDescription = "Para tomar la foto del cocktail terminado";
