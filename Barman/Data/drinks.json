@@ -1,0 +1,76 @@
+[{
+	"directions": "Shake vigorously and serve.",
+	"ingredients": "white creme de menthe, peach liqueur vodka,  hot chocolate",
+	"name": "After Dinner Mint",
+	"img": "1.jpg"
+}, {
+	"directions": "Pour the liqueur into a glass, add the cider, and serve cold.",
+	"ingredients": "cinnamon schnapps, hard cider",
+	"name": "Baked Apple",
+	"img": "2.jpg"
+}, {
+	"directions": "Combine ingredients in a coffee mug. Top with whipped cream and coconut shavings.",
+	"ingredients": "hazelnut liqueur,coconut rum, irish cream, coffee",
+	"name": "Cafe Joy",
+	"img": "3.jpg"
+}, {
+	"directions": "Shake rum, amaretto, and orange juice in a shaker filled with ice. Strain into a highball glass over ice. Add grenadine and garnish with a pineapple wedge and a strawberry",
+	"ingredients": "coconut rum, amaretto almond liqueur, orange juice, grenadine syrup",
+	"name": "Day at the Beach",
+	"img": "4.jpg"
+}, {
+	"directions": "Pour ingredients into a Rocks Glass filled with ice.",
+	"ingredients": "Wild Turkey, tabasco Sauce",
+	"name": "Firecracker",
+	"img": "5.jpg"
+}, {
+	"directions": "Layer in sequence in a shot glass.",
+	"ingredients": "irish cream, butterscotch schnapps, cinnamon schnapps",
+	"name": "Gingerbread Man",
+	"img": "6.jpg"
+}, {
+	"directions": "Mix vodka and sweet and sour mix proportionally in any size batch, then add sprite or 7-up and cranberry accordingly, a dash each per serving.",
+	"ingredients": "vodka, sweet and sour mix, sprite, cranberry juice",
+	"name": "Key West Lemonade",
+	"img": "7.jpg"
+}, {
+	"directions": "Add sugar to the rim of an old-fashioned glass, and drop a cube or packet of sugar into the bottom of the glass. Pour vodka and lemon juice into a stainless steel shaker over ice, and shake until completely cold. Pour into the prepared old-fashioned glass, and serve.",
+	"ingredients": "Citron vodka, Lemon, Sugar",
+	"name": "Lemon Drop",
+	"img": "8.jpg"
+}, {
+	"directions": "Add bourbon wiskey and sweet vermouth. Mix and serve in martini glass.",
+	"ingredients": "sweet vermouth, bourbon whiskey, bitters, maraschino cherry twist, orange peel",
+	"name": "Manhattan",
+	"img": "9.jpg"
+}, {
+	"directions": "Combine all ingredients in a mixing glass, chill and strain into a cocktail glass. Garnish with a twist of lemon, and serve.",
+	"ingredients": "strawberry liqueur, orange liqueur, raspberry liqueur, lime juice",
+	"name": "Neapolitan",
+	"img": "10.jpg"
+}, {
+	"directions": "Shake all ingredients with ice, strain into a cocktail glass, and serve.",
+	"ingredients": "gin, lemon juice, orange Juice",
+	"name": "Polo Cocktail",
+	"img": "11.jpg"
+}, {
+	"directions": "Heat and pour into an irish coffee cup. Top with whipped cream, garnish with a tall cinnamon stick, and serve.",
+	"ingredients": "orange liqueur, cinnamon schnapps, vodka, cranberry juice",
+	"name": "Red Rudolph",
+	"img": "12.jpg"
+}, {
+	"directions": "Fill shaker with ice, add ingredients, chill, strain.",
+	"ingredients": "vodka, irish creme, kahlua, frangelico, milk",
+	"name": "Sandbar Sleeper",
+	"img": "13.jpg"
+}, {
+	"directions": "151 first, then peppermint liqueur.",
+	"name": "Terminator",
+	"ingredients": "151 proof rum, peppermint liqueur",
+	"img": "14.jpg"
+}, {
+	"directions": "Shake together over ice, and strain into a highball glass. Garnish with a lime wedge and a cherry.",
+	"ingredients": "lemon vodka, pepper vodka, kurant vodka, vodka, orange juice",
+	"name": "Vodka Mixer",
+	"img": "15.jpg"
+}]
